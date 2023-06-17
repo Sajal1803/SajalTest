@@ -13,9 +13,9 @@ HTML tags are used to define the structure and content of a web page. HTML tags 
 There are Different types of Html tags are as follows 
 1. Structural Tags: These tags define the structure of the web page. 
 Examples are 
-<html>: Defines the beginning and end of an HTML document.
-<head>: Contains meta information about the document, such as the title and links to stylesheets.
-<body>: Contains the content of the web page, such as text, images, and videos.
+HTML tag: Defines the beginning and end of an HTML document.
+head tag: Contains meta information about the document, such as the title and links to stylesheets.
+body tag : Contains the content of the web page, such as text, images, and videos.
   
 2. Formatting Tags: These tags define the formatting of the content. 
 Examples are
@@ -25,17 +25,16 @@ paragraph tag (p tag)": Defines a paragraph.
   
 4. Input Tags: These tags define input elements for forms.  
 Examples are 
-"<input type="text">": Defines a text input field.
-"<input type="checkbox">": Defines a checkbox input field.
+"input tag": Defines a text input field.
   
 5. Link Tags: These tags define links to other web pages or resources. 
 Examples are 
-"<a href="https://www.example.com">": Defines a hyperlink to another web page or resource.
-"<link rel="stylesheet" href="style.css">": Defines a link to an external stylesheet.
+"anchor tag ": Defines a hyperlink to another web page or resource.
+link tag : Defines a link to an external stylesheet.
   
 6. Image Tags: These tags define images to be displayed on the web page. 
 Example are 
-"<img src="image.jpg/png" alt="alternate text">": Defines an image to be displayed on the web page.
+img tag (image tag): Defines an image to be displayed on the web page.
 </p>
 
 <h3>Q3. Explain the working Procedure of Virtual DOM. </h3>
