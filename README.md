@@ -19,7 +19,7 @@ Examples are
   
 2. Formatting Tags: These tags define the formatting of the content. 
 Examples are 
-<h1> to <h6>: Defines headings of different sizes.
+<h1> - <h6>: Defines headings of different sizes.
 <p>: Defines a paragraph.
 <strong>: Defines strong emphasis.
   
