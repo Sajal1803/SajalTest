@@ -18,22 +18,22 @@ Examples are
 <body>: Contains the content of the web page, such as text, images, and videos.
   
 2. Formatting Tags: These tags define the formatting of the content. 
-Examples are 
-"(<h1>-<h6>): Defines headings of different sizes.
-"(<p>)": Defines a paragraph.
-"(<strong>)": Defines strong emphasis.
+Examples are
+heading tag from h1 to h6: Defines headings of different sizes.
+paragraph tag (p tag)": Defines a paragraph.
+"strong tag ": Defines strong emphasis.
   
-3. Input Tags: These tags define input elements for forms.  
+4. Input Tags: These tags define input elements for forms.  
 Examples are 
 "<input type="text">": Defines a text input field.
 "<input type="checkbox">": Defines a checkbox input field.
   
-4. Link Tags: These tags define links to other web pages or resources. 
+5. Link Tags: These tags define links to other web pages or resources. 
 Examples are 
 "<a href="https://www.example.com">": Defines a hyperlink to another web page or resource.
 "<link rel="stylesheet" href="style.css">": Defines a link to an external stylesheet.
   
-5. Image Tags: These tags define images to be displayed on the web page. 
+6. Image Tags: These tags define images to be displayed on the web page. 
 Example are 
 "<img src="image.jpg/png" alt="alternate text">": Defines an image to be displayed on the web page.
 </p>
