@@ -19,9 +19,9 @@ Examples are
   
 2. Formatting Tags: These tags define the formatting of the content. 
 Examples are 
-"<h1> - <h6>": Defines headings of different sizes.
-"<p>": Defines a paragraph.
-"<strong>": Defines strong emphasis.
+"(<h1>-<h6>): Defines headings of different sizes.
+"(<p>)": Defines a paragraph.
+"(<strong>)": Defines strong emphasis.
   
 3. Input Tags: These tags define input elements for forms.  
 Examples are 
